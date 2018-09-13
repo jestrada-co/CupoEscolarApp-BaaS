@@ -25,11 +25,11 @@
     "standard": "^10.0.3"
   },
   "dependencies": {
-    "@google/maps": "^0.4.5",
+    "@google/maps": "^0.4.6",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
     "co": "^4.6.0",
     "express": "^4.16.2",
-    "firebase-admin": "^5.4.3"
+    "firebase-admin": "^5.13.1"
   }
 }
